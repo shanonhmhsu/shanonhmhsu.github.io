@@ -1,26 +1,6 @@
-<div class="row g-5 mb-5">
-  <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Working Papers</h3>
-    {% if page.title == "Home" %}
-      {% for item in site.data.publications.featured %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% else %}
-      {% for item in site.data.publications.index %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% endif %}
-  </div>
-  <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Work in Progress</h3>
-    {% if page.title == "Home" %}
-      {% for item in site.data.publications.featured %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% else %}
-      {% for item in site.data.publications.index %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% endif %}
-  </div>
-</div>
+<h3>Working Papers</h3>
+  <ol start="1">
+  <li> <b><a href="https://chanwoolkim.github.io/research/">Paper 1</a></b> </li> 
+    <p> Abstract: We </p>
+    <p style="text-indent:10px;font-size:11px">• Presentations: </p> 
+  
