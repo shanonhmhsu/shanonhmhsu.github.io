@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Home"
+title: "Shanon Hsuan-Ming Hsu"
 ---
 
 Welcome! I am a Postdoctoral Scholar at the [Kenneth C. Griffin Department of Economics at the University of Chicago](https://economics.uchicago.edu/), where I received my Ph.D. in 2024. I am on the 2024-2025 Job Market.
