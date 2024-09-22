@@ -12,4 +12,4 @@ My research focuses on development economics, spatial economics, and economic hi
 Here is my CV.
 
 
-You can reach me at <a href="mailto:shmhsu@uchicago.edu">shmhsu@uchicago.edu</a>.
+Reach me at <a href="mailto:shmhsu@uchicago.edu">shmhsu@uchicago.edu</a>.
