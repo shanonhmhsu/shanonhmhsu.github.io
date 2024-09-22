@@ -1,4 +1,4 @@
 menu:
 - {name: 'CV', url: '/cv'}
-- {name: 'Research', url: '/publications'}
-- {name: 'Teaching', url: '/courses'}
+- {name: 'Research', url: '/research'}
+- {name: 'Teaching', url: '/teaching'}
