@@ -3,7 +3,7 @@ layout: default
 permalink: /teaching/
 ---
 
-Teaching Assistant
+## Teaching Assistant
 
 Introduction to Development Economics (Undergraduate), 2022
 - Instructor: Srinivasan Vasudevan
