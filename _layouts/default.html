@@ -2,6 +2,23 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   {% include head.html %}
   <body>
+    <div class="container" style="max-width: 1200px; margin: 0 auto;">
+      <div class="col-lg-8 mx-auto p-3 py-md-5">
+        {% include header.html %}
+        {{ content }}
+        {% include footer.html %}
+      </div>
+    </div>
+  </body>
+</html>
+
+
+<!--
+
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  {% include head.html %}
+  <body>
     <div class="col-lg-8 mx-auto p-3 py-md-5">
       {% include header.html %}
       {{ content }}
@@ -9,3 +26,5 @@
     </div>
   </body>
 </html>
+
+-->
