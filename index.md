@@ -6,6 +6,6 @@ Welcome! I am a Postdoctoral Scholar at the <a href="https://economics.uchicago.
 
 My research focuses on **development economics**, **spatial economics**, and **economic history**. I study the factors that shape differences in economic activites across space and time from a historical perspective. 
 
-Download my <a href="github.com/shanonhmhsu/assets/cv_hsu.pdf/" target="_blank">CV</a>.
+Download my <a href="/assets/cv/cv_hsu.pdf" target="_blank">CV</a>.
 
 Reach me at <a href="mailto:shmhsu@uchicago.edu">shmhsu@uchicago.edu</a>.
