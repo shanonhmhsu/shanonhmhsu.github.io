@@ -6,6 +6,6 @@ Welcome! I am a Postdoctoral Scholar at the Kenneth C. Griffin Department of Eco
 
 My research focuses on **urban and spatial economics**, **development economics**, and **economic history**. I study the factors that drive differences in economic activity across space and time, with a particular focus on the mechanisms behind regional persistence and leapfrogging.
 
-Download my <a href="/assets/cv/cv_hsu.pdf" target="_blank">CV</a>.
+Download my <a href="/assets/cv/cv_hsu.pdf" target="_blank" style="color: blue;">CV</a>.
 
-Reach me at <a href="mailto:shmhsu@uchicago.edu">shmhsu@uchicago.edu</a>.
+Reach me at <a href="mailto:shmhsu@uchicago.edu" style="color: blue;">shmhsu@uchicago.edu</a>.
