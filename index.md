@@ -4,7 +4,7 @@ layout: home
 
 Welcome! I am a Postdoctoral Scholar at the Kenneth C. Griffin Department of Economics at the University of Chicago, where I received my Ph.D. in 2024.
 
-**I am on the 2024-2025 Job Market**.
+I am on the **2024-2025 Job Market**.
 
 My research centers on **urban economics**, **development economics**, and **economic history**. I study the social and economic forces that drive regional persistence and leapfrogging, with a focus on agglomeration and technological transitions.
 
