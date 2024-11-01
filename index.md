@@ -6,7 +6,7 @@ Welcome! I am a Postdoctoral Scholar at the Kenneth C. Griffin Department of Eco
 
 I am on the **2024-2025 Job Market**.
 
-My research centers on **urban economics**, **development economics**, and **economic history**. I study the social and economic forces that drive regional persistence and leapfrogging, with a focus on agglomeration and technological transitions.
+My research centers on **urban economics**, **economic history**, and **development economics**. I study the social and economic forces that drive regional persistence and leapfrogging, with a focus on agglomeration and technological transitions.
 
 Please find my <a href="/assets/cv/cv_hsu.pdf" target="_blank">CV here</a>.
 
