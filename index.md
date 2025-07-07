@@ -2,12 +2,10 @@
 layout: home
 ---
 
-Welcome! I am a Postdoctoral Scholar at the Kenneth C. Griffin Department of Economics at the University of Chicago, where I received my Ph.D. in 2024.
+Welcome! I will spend 2025--26 as a Visiting Scholar in Harvard's Economics Department, then join National Taiwan University as an Assistant Professor of Economics in 2026.
 
-I am on the **2024-2025 Job Market**.
+I am interested in economic geography, economic history, and development economics. I study how social and economic forces shape regional development and long-run spatial dynamics, with a focus on agglomeration and technological transitions.
 
-My research centers on **urban economics**, **economic history**, and **development economics**. I study the social and economic forces that drive regional persistence and dynamics, with a focus on agglomeration and technological transitions.
-
-Please find my <a href="/assets/cv/cv_hsu.pdf" target="_blank">CV here</a>.
+I completed my Ph.D. in Economics from the University of Chicago in 2024.
 
 Reach me at <a href="mailto:shmhsu@uchicago.edu">shmhsu@uchicago.edu</a>.
