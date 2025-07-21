@@ -8,4 +8,4 @@ I am interested in economic geography, economic history, and development economi
 
 I completed my Ph.D. in Economics from the University of Chicago in 2024.
 
-Reach me at <a href="mailto:shmhsu@uchicago.edu">shmhsu@uchicago.edu</a>.
+Reach me at <a href="mailto:shanonhmhsu@gmail.com">shmhsu@uchicago.edu</a>.
