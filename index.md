@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Welcome! I will spend 2025–26 as a Visiting Scholar in the Economics Department at Harvard, then join National Taiwan University as an Assistant Professor of Economics in 2026.
+Welcome! I am a Visiting Scholar in the Economics Department at Harvard. I will join National Taiwan University as an Assistant Professor of Economics in 2026.
 
 I am interested in economic geography, economic history, and development economics. I study how social and economic forces shape regional development and long-run spatial dynamics, with a focus on agglomeration and technological transitions.
 
