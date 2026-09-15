@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .paper-actions {
-  margin-top: 0.5rem;
+  margin-top: 0;
   font-size: 0.9375rem;
   line-height: 1.6;
 }
@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6 {
 .paper-abstract summary {
   width: fit-content;
   list-style: none;
-  padding: 0.25rem 0;
+  padding: 0;
   color: $linkColor;
   cursor: pointer;
 }
@@ -131,11 +131,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .abstract-content {
-  margin-top: 0.75rem;
-  padding: 0.25rem 0;
+  margin-top: 0.25rem;
+  padding: 0;
   color: #444;
   font-size: 1rem;
-  line-height: 1.65;
+  line-height: 1.5;
 }
 
 .abstract-content p {
