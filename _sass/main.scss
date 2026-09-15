@@ -22,7 +22,8 @@ header a {
 }
 
 header .fs-2 {
-  font-weight: 600 !important;
+  font-family: $headingFont;
+  font-weight: 400 !important;
 }
 
 body a:hover,
