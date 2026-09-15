@@ -8,6 +8,8 @@ body {
   background: $backgroundColor;
   color: $bodyColor;
   font-family: $bodyFont;
+  font-size: 1rem;
+  line-height: 1.5;
 }
 
 body a {
@@ -17,6 +19,10 @@ body a {
 
 header a {
   color: #212529;
+}
+
+header .fs-2 {
+  font-weight: 600 !important;
 }
 
 body a:hover,
@@ -43,9 +49,11 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 2.5rem;
 }
 
-.research-section > h2 {
-  font-size: 1.5rem;
-  font-weight: 700;
+.research-section > h2,
+.section-heading {
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 1.4;
   border-bottom: 1px solid #dee2e6;
   padding-bottom: 0.75rem;
   margin-bottom: 1.25rem;
@@ -55,10 +63,15 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 1.75rem;
 }
 
-.paper-title {
-  font-size: 1.1875rem;
-  font-weight: 700;
+.paper-title,
+.teaching > p > strong {
+  font-family: $headingFont;
+  font-size: 1rem;
+  font-weight: 400;
   line-height: 1.5;
+}
+
+.paper-title {
   margin-bottom: 0.25rem;
 }
 
