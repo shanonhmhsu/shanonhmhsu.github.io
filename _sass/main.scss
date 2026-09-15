@@ -76,6 +76,15 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.25rem;
 }
 
+.paper-title a {
+  text-decoration: none;
+}
+
+.paper-title a:hover,
+.paper-title a:focus-visible {
+  text-decoration: underline;
+}
+
 .paper-authors,
 .paper-status,
 .paper-date {
@@ -90,25 +99,30 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .paper-actions {
-  position: relative;
   margin-top: 0.5rem;
   font-size: 0.9375rem;
   line-height: 1.6;
 }
 
-.paper-pdf {
-  position: absolute;
-  top: 0;
-  left: 0;
-  padding: 0.25rem 0;
-}
-
 .paper-abstract summary {
   width: fit-content;
-  margin-left: 3.5rem;
+  list-style: none;
   padding: 0.25rem 0;
   color: $linkColor;
   cursor: pointer;
+}
+
+.paper-abstract summary::-webkit-details-marker {
+  display: none;
+}
+
+.paper-abstract summary::after {
+  content: "▸";
+  margin-left: 0.4rem;
+}
+
+.paper-abstract[open] > summary::after {
+  content: "▾";
 }
 
 .paper-abstract summary:hover {
@@ -118,8 +132,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .abstract-content {
   margin-top: 0.75rem;
-  padding: 0.25rem 0 0.25rem 1rem;
-  border-left: 2px solid #dbe4ec;
+  padding: 0.25rem 0;
   color: #444;
   font-size: 1rem;
   line-height: 1.65;
