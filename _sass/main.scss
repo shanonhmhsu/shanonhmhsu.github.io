@@ -72,16 +72,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .paper-title {
+  font-weight: 700;
   margin-bottom: 0.25rem;
-}
-
-.paper-title a {
-  text-decoration: none;
-}
-
-.paper-title a:hover,
-.paper-title a:focus-visible {
-  text-decoration: underline;
 }
 
 .paper-authors,
