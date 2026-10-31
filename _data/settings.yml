@@ -2,3 +2,4 @@ menu:
 - {name: 'CV', url: '/assets/cv/cv_hsu.pdf'}
 - {name: 'Research', url: '/research'}
 - {name: 'Teaching', url: '/teaching'}
+- {name: 'Jobs', url: '/jobs'}
