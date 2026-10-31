@@ -6,7 +6,7 @@ permalink: /jobs/
 
 <section class="jobs" markdown="1">
 
-I am often looking to hire full/part-time RAs. An advertisement for an open position as of September 2026 is [here](https://econ.ntu.edu.tw/archives/18559).
+I am often looking to hire full/part-time RAs. An advertisement for open positions as of September 2026 is [here](https://econ.ntu.edu.tw/archives/18559).
 
 If you are interested, please [email](mailto:shmhsu@ntu.edu.tw) me a single PDF containing:
 
