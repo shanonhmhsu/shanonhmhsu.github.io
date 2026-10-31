@@ -15,6 +15,6 @@ If you are interested, please [email](mailto:shmhsu@ntu.edu.tw) me a single PDF 
 3. Transcript.
 4. Writing sample (optional): a thesis, term paper, or other research output you have written yourself.
 
-Please also feel free to email me if you would like to learn more about the RA positions.
+Please also feel free to [email](mailto:shmhsu@ntu.edu.tw) me if you would like to learn more about the RA positions.
 
 </section>
